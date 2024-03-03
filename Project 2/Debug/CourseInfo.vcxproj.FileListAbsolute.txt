@@ -1,0 +1,2 @@
+U:\CourseInfo\Debug\CourseInfo.exe
+U:\CourseInfo\Debug\CourseInfo.pdb
